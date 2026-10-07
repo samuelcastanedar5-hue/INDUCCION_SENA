@@ -1,0 +1,6 @@
+{
+  "name": "Inducción SENA - Identidad y Valor Institucional",
+  "description": "Plataforma interactiva de inducción para aprendices del SENA: símbolos, misión, valores, reglamento del aprendiz, etapas de formación, bienestar y certificación virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

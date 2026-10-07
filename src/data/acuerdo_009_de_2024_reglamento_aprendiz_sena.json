@@ -1,0 +1,449 @@
+{
+  "titulo": "ACUERDO No. 0009 DE 2024",
+  "descripcion": "Por medio del cual se adopta el Reglamento del Aprendiz SENA y se derogan los Acuerdos 07 de 2012, 02 de 2014, 06 de 2023 y 02 de 2024",
+  "emisor": "EL CONSEJO DIRECTIVO NACIONAL DEL SERVICIO NACIONAL DE APRENDIZAJE - SENA",
+  "fecha": "2024-11-05",
+  "ciudad": "Bogotá D.C., Colombia",
+  "vigencia": "A partir de su publicación oficial y deroga expresamente los Acuerdos 07 de 2012, 02 de 2014, 06 de 2023 y 02 de 2024.",
+  "estructura_normativa": {
+    "total_capitulos": 5,
+    "total_articulos": 53,
+    "ambito_aplicacion": "Nacional, aplicable a todos los Centros de Formación Profesional, modalidades presencial, virtual, a distancia y combinada, y niveles de formación técnica laboral, tecnológica, complementaria y articulación con la educación media."
+  },
+  "reglamento": {
+    "nombre": "REGLAMENTO DEL APRENDIZ DEL SERVICIO NACIONAL DE APRENDIZAJE - SENA",
+    "capitulos": [
+      {
+        "numero": "I",
+        "titulo": "DEFINICIONES Y PRINCIPIOS",
+        "descripcion": "Establece los conceptos rectores de la Formación Profesional Integral, el ámbito de aplicación y los principios orientadores de la convivencia institucional.",
+        "articulos": [
+          {
+            "numero": 1,
+            "nombre": "Definiciones Básicas",
+            "contenido": "Para efectos de la aplicación e interpretación del presente reglamento se establecen las siguientes definiciones institucionales:",
+            "terminos": [
+              {
+                "termino": "Formación Profesional Integral (FPI)",
+                "definicion": "Proceso educativo teórico-práctico de carácter integral, orientado al desarrollo de conocimientos técnicos, tecnológicos y de actitudes y valores para el desarrollo humano y la convivencia social, que le permiten a la persona actuar crítica y creativamente en el mundo del trabajo y de la vida."
+              },
+              {
+                "termino": "Comunidad Educativa SENA",
+                "definicion": "Conformada por aprendices, instructores, personal administrativo, directivos, egresados, padres de familia y el sector productivo articulado a los procesos formativos."
+              },
+              {
+                "termino": "Aspirante",
+                "definicion": "Persona natural que ha formalizado su registro e inscripción a un programa de formación impartido por el SENA y se encuentra adelantando el proceso de selección o legalización de matrícula."
+              },
+              {
+                "termino": "Aprendiz",
+                "definicion": "Toda persona matriculada en los programas de formación profesional integral del SENA en cualquiera de sus modalidades, niveles y jornadas, quien asume el protagonismo de su propio aprendizaje."
+              },
+              {
+                "termino": "Grupo o Ficha de Formación",
+                "definicion": "Conjunto organizado de aprendices matriculados formalmente en un mismo programa de formación y código de identificación técnico asignado por la entidad."
+              },
+              {
+                "termino": "Ambiente de Aprendizaje",
+                "definicion": "Espacio físico, virtual o combinado donde se gestionan los procesos de enseñanza-aprendizaje con recursos didácticos, tecnológicos y orientación pedagógica."
+              },
+              {
+                "termino": "Ruta de Aprendizaje",
+                "definicion": "Trayectoria pedagógica personalizada o grupal estructurada a partir de competencias laborales, resultados de aprendizaje y actividades formativas."
+              },
+              {
+                "termino": "Evidencia de Aprendizaje",
+                "definicion": "Manifestación tangible y comprobable del aprendizaje logrado por el aprendiz (de conocimiento, desempeño o producto), evaluada conforme a los criterios normativos."
+              }
+            ]
+          },
+          {
+            "numero": 2,
+            "nombre": "Alcance del Reglamento",
+            "contenido": "El presente reglamento rige para todas las personas que ostenten la calidad de aprendices del SENA en sus diferentes niveles de formación (operario, auxiliar, técnico laboral, tecnólogo, especialización tecnológica y formación complementaria) y modalidades de atención (presencial, virtual, a distancia y mixta), así como en los programas especiales de articulación con la educación media y formación continua."
+          },
+          {
+            "numero": 3,
+            "nombre": "Principios Orientadores",
+            "contenido": "La convivencia, las relaciones interpersonales y la aplicación de los procesos pedagógicos en la comunidad educativa del SENA se fundamentan en los siguientes principios rectores:",
+            "principios": [
+              {
+                "principio": "Autonomía y Autorregulación",
+                "descripcion": "Capacidad del aprendiz para gestionar su propio conocimiento de manera responsable, ética y reflexiva."
+              },
+              {
+                "principio": "Dignidad Humana e Inclusión",
+                "descripcion": "Reconocimiento y respeto absoluto del valor inalienable de toda persona, eliminando cualquier forma de discriminación por razones de etnia, género, condición social o discapacidad."
+              },
+              {
+                "principio": "Enfoque Diferencial y Territorial",
+                "descripcion": "Atención contextualizada que reconoce las particularidades históricas, culturales, geográficas y de vulnerabilidad de las poblaciones en todas las regiones del país."
+              },
+              {
+                "principio": "Participación Democrática",
+                "descripcion": "Fomento activo de la deliberación constructiva, el ejercicio de la vocería y la toma de decisiones colectivas dentro del marco institucional."
+              },
+              {
+                "principio": "Desarrollo Humano Integral y Sostenible",
+                "descripcion": "Compromiso de la formación con el equilibrio ecológico, la transición justa, la preservación del medio ambiente y el bienestar integral de la sociedad."
+              },
+              {
+                "principio": "Solidaridad y Justicia Restaurativa",
+                "descripcion": "Privilegiar el diálogo, la concertación formativa, la reparación de los daños y el aprendizaje a partir del error frente a medidas meramente punitivas."
+              }
+            ]
+          },
+          {
+            "numero": 4,
+            "nombre": "Centro de Convivencia y Cultura de Paz",
+            "contenido": "Los Centros de Formación del SENA se constituyen en territorios de paz, diálogo, sana convivencia y respeto por los derechos humanos, donde se fomenta la resolución pacífica de controversias y el respeto mutuo."
+          }
+        ]
+      },
+      {
+        "numero": "II",
+        "titulo": "DERECHOS, ESTÍMULOS Y REPRESENTATIVIDAD DEL APRENDIZ SENA",
+        "descripcion": "Consagra el conjunto de garantías formativas, reconocimientos al mérito académico y los mecanismos de elección democrática de voceros y representantes.",
+        "articulos": [
+          {
+            "numero": 5,
+            "nombre": "Derechos Fundamentales y Formativos del Aprendiz",
+            "contenido": "El aprendiz goza de los siguientes derechos fundamentales e institucionales durante su permanencia en el SENA:",
+            "items": [
+              "Recibir Formación Profesional Integral gratuita, pertinente y de calidad, acorde con el diseño curricular aprobado.",
+              "Recibir inducción integral al inicio del proceso formativo sobre la estructura institucional, servicios de bienestar, normatividad y plataformas tecnológicas.",
+              "Disponer de carné institucional físico y/o credencial digital que lo acredite como aprendiz activo del SENA.",
+              "Recibir trato respetuoso, digno y no discriminatorio por parte de todos los miembros de la comunidad educativa.",
+              "Hacer uso adecuado de la infraestructura física, tecnológica, bibliotecas, laboratorios, conectividad y de los entornos virtuales institucionales (LMS Zajuna).",
+              "Gozar de las garantías del Debido Proceso y el derecho a ser escuchado en todas las actuaciones académicas y disciplinarias.",
+              "Beneficiarse de los programas, apoyos socioeconómicos y servicios del Plan de Bienestar al Aprendiz (salud, deporte, cultura, orientación psicosocial y asesoría de emprendimiento).",
+              "Conocer oportunamente las evaluaciones, juicios valorativos y contar con retroalimentación pedagógica dentro de los plazos reglamentarios.",
+              "Solicitar la revisión motivada de las evaluaciones y el acceso a los planes de mejoramiento pedagógico.",
+              "Expresar libre y respetuosamente sus opiniones y organizarse democráticamente a través de los canales institucionales."
+            ]
+          },
+          {
+            "numero": 6,
+            "nombre": "Estímulos e Incentivos al Rendimiento y Mérito",
+            "contenido": "El SENA reconocerá el esfuerzo destacado, la excelencia académica, el liderazgo, el espíritu investigativo y los logros formativos mediante los siguientes estímulos:",
+            "items": [
+              "Menciones de honor y reconocimientos públicos de excelencia académica e integral.",
+              "Prioridad en la postulación a monitorías institucionales remuneradas del Centro de Formación.",
+              "Postulación preferente para participar en semilleros de investigación SENNOVA, TecnoParques y eventos de innovación tecnológica.",
+              "Representación institucional en competencias nacionales e internacionales como WorldSkills y ferias del conocimiento.",
+              "Apoyo y articulación prioritaria de iniciativas emprendedoras a través del Fondo Emprender."
+            ]
+          },
+          {
+            "numero": 7,
+            "nombre": "Representatividad de los Aprendices (Voceros y Representantes)",
+            "contenido": "Mecanismos y roles de liderazgo democrático estudiantil en el SENA:",
+            "roles": [
+              {
+                "rol": "Vocero de Grupo / Ficha",
+                "descripcion": "Aprendiz elegido por sus compañeros de grupo para actuar como canal formal de comunicación constructiva con el equipo de instructores y coordinadores.",
+                "requisitos": "Haber cursado la inducción, tener buen rendimiento académico, no haber sido sancionado disciplinariamente y demostrar liderazgo propositivo."
+              },
+              {
+                "rol": "Representante de Aprendices del Centro",
+                "descripcion": "Líder estudiantil electo democráticamente por la totalidad de aprendices del Centro de Formación para un periodo de un (1) año.",
+                "funciones": "Participar con voz en el Comité de Evaluación y Seguimiento, velar por los derechos del estamento de aprendices e impulsar proyectos de bienestar institucional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "numero": "III",
+        "titulo": "DEBERES Y PROHIBICIONES DEL APRENDIZ SENA",
+        "descripcion": "Detalla las responsabilidades académicas, convivenciales y administrativas exigibles al aprendiz, así como las conductas expresamente prohibidas.",
+        "articulos": [
+          {
+            "numero": 8,
+            "nombre": "Deberes del Aprendiz SENA",
+            "contenido": "Son deberes del aprendiz durante su proceso formativo en el SENA:",
+            "clasificacion": [
+              {
+                "tipo": "Deberes Académicos",
+                "items": [
+                  "Asistir puntualmente a la totalidad de sesiones y actividades pedagógicas programadas.",
+                  "Elaborar y entregar oportunamente las evidencias de aprendizaje originales conforme a las pautas y guías.",
+                  "Participar activamente en los foros, sesiones virtuales y trabajos colaborativos asignados en el LMS Zajuna.",
+                  "Justificar oportunamente las inasistencias dentro de los tres (3) días hábiles siguientes ante el instructor o coordinación.",
+                  "Asumir la corresponsabilidad en el desarrollo de la ruta de aprendizaje y plan de trabajo concertado."
+                ]
+              },
+              {
+                "tipo": "Deberes Disciplinarios y de Convivencia",
+                "items": [
+                  "Portar visiblemente el carné institucional físico o credencial digital en todo momento dentro de las instalaciones y eventos del SENA.",
+                  "Utilizar de manera obligatoria los uniformes técnicos y Elementos de Protección Personal (EPP) requeridos.",
+                  "Tratar con respeto y consideración a todos los miembros de la comunidad educativa y visitantes.",
+                  "Cuidar, conservar y responder por los bienes muebles, inmuebles, maquinaria, herramientas y redes tecnológicas del SENA.",
+                  "Acatar las normas de seguridad y salud en el trabajo (SST) y protocolos de bioseguridad vigentes."
+                ]
+              },
+              {
+                "tipo": "Deberes Administrativos",
+                "items": [
+                  "Mantener actualizados sus datos personales y de contacto en el sistema de gestión académica (SofiaPlus / Zajuna).",
+                  "Tramitar formalmente las solicitudes de novedades de matrícula en los plazos y formatos institucionales.",
+                  "Estar a paz y salvo integral con el Centro de Formación al culminar cada trimestre y la formación."
+                ]
+              }
+            ]
+          },
+          {
+            "numero": 9,
+            "nombre": "Prohibiciones para el Aprendiz SENA",
+            "contenido": "Se consideran conductas prohibidas y contrarias a la ética y formación profesional del SENA:",
+            "prohibiciones": [
+              "Cometer plagio, fraude académico o suplantar la identidad de personas en evaluaciones, evidencias o plataformas.",
+              "Ingresar, consumir, comercializar o incitar al consumo de bebidas alcohólicas o sustancias psicoactivas dentro de las sedes o asistir bajo sus efectos.",
+              "Portar armas de fuego, cortopunzantes, artefactos explosivos o elementos bélicos de cualquier índole.",
+              "Incurrir en cualquier acto de violencia física, verbal, psicológica, discriminación, acoso laboral o sexual dentro o fuera de la institución.",
+              "Destruir, deteriorar intencionalmente o sustraer bienes, equipos, software o documentos pertenecientes al SENA o a terceros.",
+              "Utilizar el nombre, logosímbolo o instalaciones del SENA con fines políticos, proselitistas o lucrativos de carácter personal sin autorización.",
+              "Alterar registros académicos, firmas institucionales o constancias oficiales expedidas por el SENA.",
+              "Obstaculizar el normal desarrollo de las actividades formativas, pedagógicas y administrativas del Centro."
+            ]
+          }
+        ]
+      },
+      {
+        "numero": "IV",
+        "titulo": "INGRESO, PERMANENCIA, NOVEDADES, EVALUACIÓN Y CERTIFICACIÓN",
+        "descripcion": "Regula el ciclo formativo completo: etapas de matrícula, novedades administrativas, causales de deserción, modelo evaluativo y modalidades de etapa productiva (Artículos 10 al 38).",
+        "articulos": [
+          {
+            "numero": 10,
+            "nombre": "Registro e Inscripción",
+            "contenido": "El aspirante debe registrarse e inscribirse en el sistema oficial de gestión académica institucional del SENA en las convocatorias públicas vigentes."
+          },
+          {
+            "numero": 11,
+            "nombre": "Selección de Aspirantes",
+            "contenido": "Proceso mediante el cual se aplican pruebas de competencias básicas, ciudadanas y motivacionales para determinar la admisión al programa."
+          },
+          {
+            "numero": 12,
+            "nombre": "Matrícula Formal",
+            "contenido": "Acto administrativo que formaliza la vinculación del aspirante admitido como aprendiz regular del SENA, previa entrega de la documentación requerida."
+          },
+          {
+            "numero": 13,
+            "nombre": "Compromiso del Aprendiz",
+            "contenido": "Acuerdo ético y legal suscrito en el momento de la matrícula en el cual el aprendiz se compromete a cumplir el presente reglamento y participar activamente en su formación."
+          },
+          {
+            "numero": 14,
+            "nombre": "Carnetización y Credencial Digital",
+            "contenido": "El SENA proveerá al aprendiz carnet físico y/o credencial digital única para su identificación y acceso a todos los servicios institucionales."
+          },
+          {
+            "numero": 15,
+            "nombre": "Permanencia en la Formación",
+            "contenido": "Condición del aprendiz que mantiene matricula activa, asiste a las actividades programadas y cumple satisfactoriamente con las evidencias requeridas."
+          },
+          {
+            "numero": 16,
+            "nombre": "Novedades de Matrícula",
+            "contenido": "Trámites formales presentados por el aprendiz para solicitar traslados, aplazamientos, reintegros o retiros ante la Subdirección de Centro."
+          },
+          {
+            "numero": 17,
+            "nombre": "Traslado de Centro o Jornada",
+            "contenido": "Solicitud justificada de cambio a otro Centro o jornada, sujeta a disponibilidad de cupo y compatibilidad de la ruta de aprendizaje."
+          },
+          {
+            "numero": 18,
+            "nombre": "Aplazamiento de la Formación",
+            "contenido": "Interrupción temporal autorizada de los estudios hasta por seis (6) meses prorrogables por fuerza mayor, servicio militar, enfermedad o maternidad."
+          },
+          {
+            "numero": 19,
+            "nombre": "Reintegro",
+            "contenido": "Reincorporación formal del aprendiz tras un aplazamiento, sujeta a la vigencia del diseño curricular del programa."
+          },
+          {
+            "numero": 20,
+            "nombre": "Retiro Voluntario",
+            "contenido": "Manifestación escrita y libre del aprendiz de retirarse del programa de formación, no acarreando sanción cuando se tramita oportunamente."
+          },
+          {
+            "numero": 21,
+            "nombre": "Causales de Deserción",
+            "contenido": "Inasistencia injustificada de tres (3) días hábiles consecutivos en presencial, quince (15) días de inactividad no justificada en LMS Zajuna, o no inicio de etapa productiva en los plazos fijados."
+          },
+          {
+            "numero": 22,
+            "nombre": "Procedimiento de Notificación de Deserción",
+            "contenido": "El centro notificará al aprendiz otorgándole cinco (5) días hábiles para justificar su inasistencia o inactividad antes de emitir la resolución de deserción."
+          },
+          {
+            "numero": 23,
+            "nombre": "Cancelación de Matrícula por Deserción",
+            "contenido": "Efecto formal de la deserción no justificada que implica la pérdida de calidad de aprendiz e inhabilidad para inscribirse en el SENA por seis (6) meses."
+          },
+          {
+            "numero": 24,
+            "nombre": "Enfoque de la Evaluación del Aprendizaje",
+            "contenido": "Proceso permanente, formativo, participativo y transparente enfocado en evidencias de conocimiento, desempeño y producto."
+          },
+          {
+            "numero": 25,
+            "nombre": "Juicios de Evaluación",
+            "contenido": "La evaluación se expresa cualitativamente a través de los juicios 'Aprobado' (A) o 'No Aprobado' (D - Por Mejorar)."
+          },
+          {
+            "numero": 26,
+            "nombre": "Evidencias de Aprendizaje",
+            "contenido": "Pruebas verificables recolectadas durante la formación que demuestran el alcance de los resultados de aprendizaje planificados."
+          },
+          {
+            "numero": 27,
+            "nombre": "Planes de Mejoramiento Pedagógico Académico",
+            "contenido": "Estrategias de refuerzo y nivelación concertadas entre instructor y aprendiz, con plazo máximo de treinta (30) días calendario para superar deficiencias."
+          },
+          {
+            "numero": 28,
+            "nombre": "Revisión del Juicio Evaluativo",
+            "contenido": "Derecho del aprendiz a solicitar revisión motivada de una calificación dentro de los tres (3) días hábiles siguientes a su publicación."
+          },
+          {
+            "numero": 29,
+            "nombre": "Segundo Evaluador",
+            "contenido": "Mecanismo de garantía en caso de desacuerdo persistente, donde el Coordinador Académico designa un instructor par para verificar las evidencias."
+          },
+          {
+            "numero": 30,
+            "nombre": "Definición y Alcance de la Etapa Productiva",
+            "contenido": "Fase formativa de aplicación práctica y complementación de competencias en escenarios productivos reales de seis (6) meses de duración."
+          },
+          {
+            "numero": 31,
+            "nombre": "Contrato de Aprendizaje",
+            "contenido": "Alternativa de etapa productiva patrocinada por una empresa legalmente obligada con apoyo de sostenimiento y cobertura en salud y ARL."
+          },
+          {
+            "numero": 32,
+            "nombre": "Vínculo Laboral o Contractual",
+            "contenido": "Alternativa cuando el aprendiz labora en una empresa ejecutando actividades afines a su formación, avalada por la Coordinación Académica."
+          },
+          {
+            "numero": 33,
+            "nombre": "Proyecto Productivo",
+            "contenido": "Formulación y puesta en marcha de un plan de negocio propio o articulado a convocatorias del Fondo Emprender del SENA."
+          },
+          {
+            "numero": 34,
+            "nombre": "Pasantías y Apoyo a ONG",
+            "contenido": "Práctica concertada con instituciones públicas, sin ánimo de lucro o pymes con plan de concertación de actividades avalado."
+          },
+          {
+            "numero": 35,
+            "nombre": "Monitorías y Proyectos SENNOVA",
+            "contenido": "Desarrollo de la etapa productiva mediante monitoría institucional en centros SENA o vinculación activa a proyectos de investigación aplicada e innovación."
+          },
+          {
+            "numero": 36,
+            "nombre": "Seguimiento a la Etapa Productiva y Bitácoras",
+            "contenido": "Acompañamiento obligatorio del instructor de seguimiento y entrega quincenal de bitácoras de actividades por parte del aprendiz."
+          },
+          {
+            "numero": 37,
+            "nombre": "Paz y Salvo Académico y Administrativo",
+            "contenido": "Documento que certifica que el aprendiz ha cumplido con todas las obligaciones curriculares, de bienestar y de inventario con el Centro."
+          },
+          {
+            "numero": 38,
+            "nombre": "Certificación y Titulación Oficial",
+            "contenido": "Expedición del título o certificado oficial del SENA acreditando las competencias laborales adquiridas en el programa de formación."
+          }
+        ]
+      },
+      {
+        "numero": "V",
+        "titulo": "RÉGIMEN DISCIPLINARIO, FALTAS, SANCIONES Y DEBIDO PROCESO",
+        "descripcion": "Establece la tipificación de faltas académicas y disciplinarias, atenuantes y agravantes, medidas formativas, sanciones y el debido proceso ante el Comité de Evaluación y Seguimiento (Artículos 39 al 53).",
+        "articulos": [
+          {
+            "numero": 39,
+            "nombre": "Definición y Naturaleza de las Faltas",
+            "contenido": "Acciones u omisiones que configuran incumplimiento de deberes, transgresión de prohibiciones o alteración del orden pedagógico y convivencial."
+          },
+          {
+            "numero": 40,
+            "nombre": "Faltas Académicas",
+            "contenido": "Conductas vinculadas directamente con el incumplimiento reiterado de compromisos pedagógicos, evidencias, inasistencias o bajo rendimiento."
+          },
+          {
+            "numero": 41,
+            "nombre": "Faltas Disciplinarias",
+            "contenido": "Conductas que vulneran la convivencia social, el respeto hacia personas, las instalaciones institucionales o la ética de la comunidad SENA."
+          },
+          {
+            "numero": 42,
+            "nombre": "Clasificación por Gravedad (Leves, Graves, Gravísimas)",
+            "contenido": "Las faltas se gradúan atendiendo a la culpabilidad, el impacto social, la intencionalidad, el daño causado y la reiteración de la conducta."
+          },
+          {
+            "numero": 43,
+            "nombre": "Criterios para Calificar las Faltas",
+            "contenido": "Pautas objetivas que debe aplicar el Comité para determinar la gravedad: grado de participación, consecuencias en terceros y afectación institucional."
+          },
+          {
+            "numero": 44,
+            "nombre": "Circunstancias Atenuantes y Agravantes",
+            "contenido": "Atenuantes: confesión oportuna, intachable conducta previa, resarcimiento. Agravantes: reincidencia, complicidad, premeditación, uso indebido de medios."
+          },
+          {
+            "numero": 45,
+            "nombre": "Medidas Formativas Preventivas",
+            "contenido": "Acciones de carácter pedagógico, reflexivo y restaurativo orientadas a encauzar el comportamiento sin imponer sanción disciplinaria formal."
+          },
+          {
+            "numero": 46,
+            "nombre": "Llamado de Atención Verbal",
+            "contenido": "Intervención formativa dialogada entre el instructor y el aprendiz ante faltas leves iniciales."
+          },
+          {
+            "numero": 47,
+            "nombre": "Llamado de Atención Escrito y Plan de Mejoramiento Disciplinario",
+            "contenido": "Comunicación formal motivada suscrita por el instructor y el aprendiz para superar faltas con seguimiento en un plazo de hasta treinta (30) días."
+          },
+          {
+            "numero": 48,
+            "nombre": "Sanciones Disciplinarias Formales",
+            "contenido": "Medidas restrictivas impuestas por el Subdirector de Centro ante faltas graves o gravísimas: amonestación escrita, condicionamiento o cancelación de matrícula."
+          },
+          {
+            "numero": 49,
+            "nombre": "Amonestación Escrita",
+            "contenido": "Sanción formal con registro en la hoja de vida académica del aprendiz por falta grave que no compromete su permanencia."
+          },
+          {
+            "numero": 50,
+            "nombre": "Condicionamiento y Cancelación de Matrícula",
+            "contenido": "El condicionamiento pone en periodo de prueba la matrícula. La cancelación retira al aprendiz e impone inhabilidad para reingresar de 6 meses a 2 años."
+          },
+          {
+            "numero": 51,
+            "nombre": "Comité de Evaluación y Seguimiento",
+            "contenido": "Órgano colegiado de consulta y debido proceso en cada Centro integrado por coordinadores, instructores, voceros y líderes de Bienestar al Aprendiz."
+          },
+          {
+            "numero": 52,
+            "nombre": "Procedimiento Sancionatorio y Garantías Procesales",
+            "contenido": "Queja formal, citación previa con antelación mínima de 5 días hábiles, pliego de cargos, audiencia de descargos, aporte de pruebas y concepto motivado."
+          },
+          {
+            "numero": 53,
+            "nombre": "Recursos de Ley (Reposición y Apelación)",
+            "contenido": "Derecho del sancionado a interponer Recurso de Reposición ante el Subdirector de Centro y Recurso de Apelación ante el Director Regional en 5 días hábiles."
+          }
+        ]
+      }
+    ]
+  }
+}
